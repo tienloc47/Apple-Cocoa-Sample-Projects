@@ -1,0 +1,227 @@
+TSimpleBrowser
+v7
+r0
+t318107563.792393
+cCheck dependencies
+cProcessInfoPlistFile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Info.plist Info-SimpleBrowser.plist
+cCopyStringsFile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch.gch SimpleBrowser_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/main.o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/AppController.o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/FileSystemNode.o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/MacOS/SimpleBrowser normal x86_64
+cTouch /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.h
+c000000004BA3F7070000000000000A98
+t1269036807
+s2712
+i<Cocoa/Cocoa.h>
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.m
+c000000004BA3F7070000000000001503
+t1269036807
+s5379
+i"AppController.h"
+i"FileSystemNode.h"
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/InfoPlist.strings
+c000000004A0E59C8000000000000005C
+t1242454472
+s92
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/MainMenu.xib
+c000000004A0E59C80000000000020ADD
+t1242454472
+s133853
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.h
+c000000004BA3F7070000000000000C28
+t1269036807
+s3112
+i<Cocoa/Cocoa.h>
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.m
+c000000004BA3F7070000000000001611
+t1269036807
+s5649
+i"FileSystemNode.h"
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/SimpleBrowser_Prefix.pch
+c000000004A0E59C8000000000000009D
+t1242454472
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app
+t1296414763
+s102
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Info.plist
+t1296414761
+s790
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/MacOS/SimpleBrowser
+t1296414763
+s22792
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/PkgInfo
+t1296414761
+s8
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1296414761
+s92
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Resources/English.lproj/MainMenu.nib
+t1296414761
+s29593
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/AppController.o
+t1296414763
+s22440
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/FileSystemNode.o
+t1296414763
+s29472
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/SimpleBrowser.LinkFileList
+c000000004D45B82900000000000001A8
+t1296414761
+s424
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/main.o
+t1296414763
+s5008
+
+N/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/main.m
+c000000004BA3F7070000000000000A00
+t1269036807
+s2560
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch.gch
+t1296414763
+s54269712
+
+NInfo-SimpleBrowser.plist
+c000000004A0E59C8000000000000035A
+t1242454472
+s858
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318107561#318107561#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/AppController.o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318107563.180304
+e318107563.363225
+r1
+xCompileC
+xbuild/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/AppController.o
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.m318107563#318107563#0(0"0(0#0#69"/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.m8606127328#1528"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wunknown-pragmas -DDEBUG=1 -D_NDEBUG=1 -DNDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fno-objc-direct-dispatch -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/SimpleBrowser.hmap -F/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/include -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources/x86_64 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources -Wimplicit-function-declaration -include /var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch -c /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/AppController.m -o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/FileSystemNode.o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318107563.180912
+e318107563.377734
+r1
+xCompileC
+xbuild/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/FileSystemNode.o
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.m318107563#318107563#0(0"0(0#0#70"/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.m8609618368#1530"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wunknown-pragmas -DDEBUG=1 -D_NDEBUG=1 -DNDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fno-objc-direct-dispatch -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/SimpleBrowser.hmap -F/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/include -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources/x86_64 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources -Wimplicit-function-declaration -include /var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch -c /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/FileSystemNode.m -o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/FileSystemNode.o0#
+
+CCompileC build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/main.o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318107563.179563
+e318107563.357867
+r1
+xCompileC
+xbuild/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/main.o
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/main.m318107563#318107563#0(0"0(0#0#60"/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/main.m8599799136#1510"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wunknown-pragmas -DDEBUG=1 -D_NDEBUG=1 -DNDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fno-objc-direct-dispatch -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/SimpleBrowser.hmap -F/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/include -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources/x86_64 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources -Wimplicit-function-declaration -include /var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch -c /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/main.m -o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/MainMenu.xib
+s318107561.031051
+e318107561.235935
+r1
+xCompileXIB
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib318107561#318107561#0(0"0(0#0#80"/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/MainMenu.xib8600020800#415"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Resources/English.lproj/MainMenu.nib /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s318107561.029453
+e318107561.221049
+r1
+xCopyStringsFile
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings318107561#318107561#0(0"0(0#0#85"/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/English.lproj/InfoPlist.strings8603214368#402"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Resources/English.lproj0#
+
+CLd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/MacOS/SimpleBrowser normal x86_64
+s318107563.377802
+e318107563.776280
+r1
+xLd
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/MacOS/SimpleBrowser
+xnormal
+xx86_64
+lSLF07#2@117"Link /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/MacOS/SimpleBrowser318107563#318107563#0(0"0(0#0#0"8607715392#647"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug -F/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug -filelist /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/Objects-normal/x86_64/SimpleBrowser.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/MacOS/SimpleBrowser0#
+
+CProcessInfoPlistFile /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Info.plist Info-SimpleBrowser.plist
+s318107561.008604
+e318107561.029384
+r1
+xProcessInfoPlistFile
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Info.plist
+xInfo-SimpleBrowser.plist
+lSLF07#2@32"Process Info-SimpleBrowser.plist318107561#318107561#0(0"0(0#0#78"/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/Info-SimpleBrowser.plist30962560973865076#373"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    builtin-infoPlistUtility Info-SimpleBrowser.plist -genpkginfo /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch.gch SimpleBrowser_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318107561.236173
+e318107563.179427
+r1
+xProcessPCH
+x/var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch.gch
+xSimpleBrowser_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile SimpleBrowser_Prefix.pch318107561#318107563#0(0"0(0#0#78"/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/SimpleBrowser_Prefix.pch8607754624#1395"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wunknown-pragmas -DDEBUG=1 -D_NDEBUG=1 -DNDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fno-objc-direct-dispatch -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/SimpleBrowser.hmap -F/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/include -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources/x86_64 -I/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/SimpleBrowser.build/Debug/SimpleBrowser.build/DerivedSources -Wimplicit-function-declaration -c /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/SimpleBrowser_Prefix.pch -o /var/folders/Eh/EhhZ+VplE8GbP96dfncLN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowser_Prefix-dcunhxektxhpvndymbhlfvsjrvop/SimpleBrowser_Prefix.pch.gch0#
+
+CTouch /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app
+s318107563.776344
+e318107563.792367
+r1
+xTouch
+x/Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app
+lSLF07#2@89"Touch /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app318107563#318107563#0(0"0(0#0#0"8603304448#167"    cd /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser    /usr/bin/touch -c /Users/tienloc47/Code/Cocoa-Sample/SimpleCocoaBrowser/build/Debug/SimpleBrowser.app0#
+
